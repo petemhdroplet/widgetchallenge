@@ -75,6 +75,7 @@ class WidgetCalculator extends CI_Controller {
 				$j = $packTypeCount - 1;
 				$optimized = true;
 				
+				//Go through pack sizes in ascending order
 				while ($j >= 0)
 				{
 					if ($packTypes[$j]["shipped"] > 0)
