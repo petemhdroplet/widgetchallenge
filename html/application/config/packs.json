@@ -1,0 +1,22 @@
+{"packs" : {
+	"5000 widgets" : {
+		"quantity":5000,
+		"shipped":0
+	},
+	"250 widgets" : {
+		"quantity":250,
+		"shipped":0
+	},
+	"500 widgets" : {
+		"quantity":500,
+		"shipped":0
+	},
+	"1000 widgets" : {
+		"quantity":1000,
+		"shipped":0
+	},
+	"2000 widgets" : {
+		"quantity":2000,
+		"shipped":0
+	}
+}}
